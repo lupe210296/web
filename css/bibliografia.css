@@ -1,0 +1,145 @@
+h1{
+	position:center;
+	left:35%;
+	color: #fff;
+	padding: 2px 450px;
+	font-weight:bold;
+	font-size:25px;
+}
+h2{
+	position:center;
+	left:35%;
+	color: #fff;
+	padding: 10px 250px;
+	font-weight:bold;
+	font-size:20px;
+}
+body{
+background-image:
+   
+	
+url(../imagenes/16.png);
+background-position:center
+center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:fixed;
+
+padding:10px;
+}
+th{
+	color:width;
+}
+li{
+	color: yellow;
+	font-weight:bold;
+	font-size:25px;
+	position:right;
+}
+p{
+	color: yellow;
+	font-weight:bold;
+	font-size:18px;
+	position:right;
+	margin:1px;
+	padding:50px;
+}
+table, th, td {
+
+	border: 3px solid black;
+	border-collapse : collapse;
+	margin:80px;
+	padding:10px;
+	
+}
+th, td{
+	padding:15px;
+	font-size: 15px;
+	
+	
+}
+.centr{
+	
+	
+	height: 150px;
+	border-radius: 10px;
+	border-radius: 10px;
+	border-bottom: 10px solid green;
+	transform.scale(1,1);
+	translation:transform 2%;
+	padding-top:0px;
+	margin:50px;
+	padding:300px;
+}
+.centro{
+	
+	
+	height: 150px;
+	border-radius: 10px;
+	border-radius: 10px;
+	border-bottom: 10px solid green;
+	transform.scale(1,1);
+	translation:transform 2%;
+	padding-top:50px;
+	margin:10px;
+	
+}
+p{
+	
+	padding-top:10px;
+}
+#menu ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+#menu ul li{
+	float:left;
+	background:000;
+}
+#menu a {
+	text-decoration:none;
+	display:block;
+	padding: 0px 10px;
+	font-size:15px;
+}
+
+#menu #item a:hover{
+	color:rgba(153,153,153,1);
+	animation:Is ms 1;
+}
+
+#menu #item:hover #desple{
+	display:block;
+}
+h4{
+	color: #fff;
+	position: right;
+}
+
+
+a{
+	color: #fff;
+	font-weight:bold;
+	font-size:25px;
+	position:center;
+}
+#menu #desple{
+	display:none;
+	position:absolute;
+}
+#mnu #item a{
+	background:rgba(0,51,102,1);
+	color:(255,255,255,1);
+	padding:12px 10px;
+	display:block;
+	
+}
+#menu #item:hover #desplega{
+	display:block;
+}
+#menu #desplega{
+	display:none;
+	position:absolute;
+}
+
